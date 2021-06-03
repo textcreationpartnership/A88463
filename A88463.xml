@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Rules, directions and by-laws, devised, and made by the Court of Aldermen of the City of London, by vertue of the late ordinance of His Highnesse the Lord Protector, with consent of his Councell; for regulation of hackney coachmen, within the said City, and places adjacent.</title>
+            <author>City of London (England). Court of Aldermen.</author>
+         </titleStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88463</idno><idno type="EEBO-CITATION">99873342</idno>
+  <idno type="VID">169219</idno>
+  <idno type="EEBO-PROQUEST">2248522466</idno>
+  
+            <idno type="STC">Wing L2864E</idno>
+            <idno type="STC">Thomason E1064_19</idno>
+            <idno type="PROQUEST">99873342</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99873342e"/>
+            <note>(EEBO-TCP ; phase 2, no. A88463)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169219)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 159:E1064[19])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Rules, directions and by-laws, devised, and made by the Court of Aldermen of the City of London, by vertue of the late ordinance of His Highnesse the Lord Protector, with consent of his Councell; for regulation of hackney coachmen, within the said City, and places adjacent.</title>
+                  <author>City of London (England). Court of Aldermen.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by James Flesher, printer to the honourable City of London,</publisher>
+                  <pubPlace>[[London] :</pubPlace>
+                  <date>[1654]]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Printer from colophon.</note>
+                  <note>Dated at end: 1654.</note>
+                  <note>Reproductions of the originals in the British Library (Thomason Tracts) and the Henry E. Huntington Library and Art Gallery (Early English books).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Coach drivers --  England --  Law and legislation --  Early works to 1800.</term>
+               <term type="geographic_name">London (England) --  Transportation --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="act">
+            <pb n="1" facs="tcp:169219:1"/>
+            <head>Rules, Directions and By-Laws, devised, and made by the Court of Aldermen of the City of <hi>London,</hi> by vertue of the late Ordinance of His Highnesse the Lord <hi>Protector,</hi> with consent of his Councell; for Regulation of Hackney Coachmen, within the said City, and places adjacent.</head>
+            <p n="1">
+               <hi>1.</hi>
+               <seg rend="decorInit">F</seg>OR the better execution of the said Ordinance, and of the good Rules and Orders herein set down, and which shall hereafter be made, and established, and for the more peaceable gover<g ref="char:EOLhyphen"/>ning of the Fellowship of Hackney Coachmen, It is Or<g ref="char:EOLhyphen"/>dained, That there shall be thirteen Overseers chosen, appointed, and Sworn in such manner, and forme as is hereafter expressed. And that <hi>Benjamin Francis, Andrew Clark, John Saltmarsh, Arthur Willis, Thomas Stephens, Anthony Hart, William Hockly, Thomas Graham, William Deacon, William Nor<g ref="char:EOLhyphen"/>well, John Bray, William Clark,</hi> and <hi>James Rice</hi> be the first, and present Overseers of the said Fellowship, who shall con<g ref="char:EOLhyphen"/>tinue untill the twenty fifth day of <hi>December,</hi> which shall be in the year of our Lord one thousand six hundred fifty and five, and further, untill other able, and sufficient per<g ref="char:EOLhyphen"/>sons of the said Fellowship, shall be elected, and chosen Overseers, according to the provisions hereafter expressed; if they, or any of them do not dye, or be not in the mean time, for any cause amoved, and displaced by the Court of Aldermen of the City of <hi>London</hi> for the time being. And that afterwards, yearly, at the next Court of Aldermen
+<pb n="2" facs="tcp:169219:2"/>to be holden after the twenty fifth day of <hi>December</hi> in eve<g ref="char:EOLhyphen"/>ry year, or some other Court day afterwards, such seven of the said thirteen Overseers, as the said Court of Aldermen shall think fit, shall fall off, or be amoved. Provided, that before the said twenty fifth day of <hi>December</hi> yearly, the present thirteen Overseers for the time being, or the major part of them then living, shall and may by way of preparation only, nominate and present to the said Court thirteen able, discreet, and fit persons of the said Fellowship; To the intent that out of the same, or such other persons of the said Fellowship as the said Court shall think fit, the said Court shall make choice of seven, to be, together with those that remain, Overseers of the said Fellowship for the year ensuing, in place of those fal<g ref="char:EOLhyphen"/>ling off or amoved. And that the persons so by them new<g ref="char:EOLhyphen"/>ly chosen, with the other six that stand and remain, shall be and continue Overseers of the said Fellowship for one whole year, and further, in case they live untill other Overseers be chosen as aforesaid, unlesse the said Court shall for some reasonable cause in the mean time remove, and displace them, or any of them, and in such case or when, and as often as it shall happen any of the Overseers to dye, then the rest of the Overseers, or the greater num<g ref="char:EOLhyphen"/>ber of them living and remaining, shall within twenty days after such removall or decease, nominate and present to the said Court of Aldermen double the number of the person or persons so removed, or deceased, that out of them or such others as the said Court shall think fit, the said Court may choose one other, or others to execute the said place, or places for the remainder of the said year; And if any person or persons that shall be elected an Overseer, or Overseers of the said fellowship, as aforesaid, shall re<g ref="char:EOLhyphen"/>fuse to take upon him or them the said place or places, he or they so refusing shall pay unto the Treasurer of the said Fel<g ref="char:EOLhyphen"/>lowship, for the time being, within fourteen days after such refusal, to and for the uses hereafter expressed, the sum of six pounds thirteen shillings four pence. And if he or they shall thereupon also refuse, or neglect to pay the said summe of money within the time before limited, then the same shall and may be levyed, and recovered as is hereafter
+<pb n="3" facs="tcp:169219:2"/>mentioned, and directed. And every Overseer, being elected as aforesaid, and having taken upon him the execution of the said place, neglecting the duty of his place, shall for every offence being duly proved, and ad<g ref="char:EOLhyphen"/>juded to be such, by the Court of Aldermen of <hi>London,</hi> in like manner forfeit, and pay the summe of Ten shil<g ref="char:EOLhyphen"/>lings, to be recovered as herein after is expressed.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="oath">
+                        <head>The Oath of the Overseers of the Fellowship of Hackney Coachmen.</head>
+                        <p>YOu shall swear, That in your Office as one of the Overseers of the Fellowship of Hackney Coach<g ref="char:EOLhyphen"/>men, you shall to your power and knowledge, keep all the good rules and orders devised, and established for the good government of the Hackney Coachmen within the City of <hi>London,</hi> and places adjacent; And to your knowledge, and power you shall also oversee the said Hackney Coachmen, that they use themselves honestly, and truly in their said Labour, and use and treate the people honestly, according to the Rules and Orders Provided, or to be provided for the good go<g ref="char:EOLhyphen"/>vernment of them: And such as you shall find offenders therein, without favour or displeasure, you shall in<g ref="char:EOLhyphen"/>differently cause, or indeavour to be brought to pu<g ref="char:EOLhyphen"/>nishment. <hi>So God you help.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p n="2">
+               <hi>II.</hi> That the said Overseers for the time being, may from time to time as they shall see cause, meet together at such convenient place as they think fit, within the Walls of the City of <hi>London,</hi> to advise of the common affairs of their Fellowship, and for execution of such matters as in and by these Rules and Orders are, or shall hereafter be enjoyned or committed to them.</p>
+            <p n="3">
+               <pb n="4" facs="tcp:169219:3"/>
+               <hi>III.</hi> That besides the Forty shillings to be paid by every person and persons, according to the Ordinance aforesaid, at his and their first admittance to keep Hackney Coach and Horses, every such person admitted or to be admitted, shall for defraying the common charges of the said Fellow<g ref="char:EOLhyphen"/>ship, and other uses hereafter mentioned, pay quarterly to the Treasurer of the said Fellowship, for every pair of hor<g ref="char:EOLhyphen"/>ses he is allowed to keep Two shillings six pence. And if any person admitted or to be admitted shall refuse or neglect to pay the same, for the space of fourteen dayes after demand thereof by the Treasurer, or any other by his appointment, such person so refusing or neglecting to pay his said quarteridge of two shillings six pence, shall by the said Overseers, or the major part of them, be amoved and dismissed from being a member of the said Fellow<g ref="char:EOLhyphen"/>ship, and shall no longer be allowed to have, enjoy and work any Coach or Horses within the limits aforesaid for hire, and another admitted in his room and place by the said Court of Aldermen, in form aforesaid.</p>
+            <p n="4">
+               <hi>IV.</hi> To the intent there may be no exaction, strife or de<g ref="char:EOLhyphen"/>bate about the hire of Coaches for time to come; It is Ordained, That no person or persons of the said Fellow<g ref="char:EOLhyphen"/>ship shall require, take or have any greater rate or prices then is hereafter set down and expressed; that is to say, for the hire of a Coach, Caroach or Charret with four horses, twenty shillings a day; and for a Coach and two horses, ten shillings a day; And that every Coach with four hor<g ref="char:EOLhyphen"/>ses shall at the Rates aforesaid limited, travel upon the Roads to and from <hi>London,</hi> from the twenty fifth day of <hi>March</hi> until the twentieth day of <hi>October</hi> thirty miles a day, within sixty miles compass of <hi>London</hi> every way (except<g ref="char:EOLhyphen"/>ing in <hi>Sussex</hi> Road, which being worst and hardest for jour<g ref="char:EOLhyphen"/>neying, shall be travelled so far onely as is reasonable, or as shall be agreed or undertaken by the Coachmen upon hire) And a Coach with two horses, at the Rates before limited for two horses, for the same season, shall travel twenty miles a day; And that from and after the twen<g ref="char:EOLhyphen"/>tieth day of <hi>October,</hi> until the twenty fifth of <hi>March,</hi> a Coach with four horses shall travel twenty five miles a
+<pb n="5" facs="tcp:169219:3"/>day, and a Coach with two horses shall travel fifteen miles a day, within the like compass of sixty miles from <hi>London</hi> (excepting upon the said Road of <hi>Sussex</hi>) But for the time a Coach shall rest or lie still upon any journey, the hire shall be, <hi>viz</hi> for a Coach and four horses but ten shillings a day, and for a Coach with two horses but six shillings eight pence a day. Also that none of the said Coachmen (unless he be hired by the day) shall require, take or have for carrying any person or persons in his Coach, from any parts or places within the places and limits aforesaid, to any other place or places within the same limits (namely, six miles compass of the late Lines of Communication, and back again) above twelve pence a mile forward and backward, that is to say, six pence a mile forward, and six pence backward, if he be not put to above an hours waiting and attendance for carrying back of such person or persons; and then to have twelve pence an hour for every hours attendance, above the space of one hour. And from the <hi>Old Exchange</hi> in <hi>Cornhill London,</hi> unto <hi>Westminster,</hi> or to any other place of like distance of place or thereabouts, not above eighteen pence, but if the persons carried exceed three persons, two shillings, and from the <hi>O<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d Exchange</hi> unto <hi>Temple Barre, Lincolns Inn</hi> or <hi>Grayes Inn,</hi> or to any other place of like distance of place, or thereabouts, not above twelve pence; also from <hi>Guildhall</hi> to <hi>Temple Barre,</hi> or any part of <hi>Chancery-lane, Grayes Inn,</hi> or other place of like di<g ref="char:EOLhyphen"/>stance, or thereabouts, not above twelve pence; and from <hi>Temple Barre, Lincolns Inn,</hi> or <hi>Grayes Inn</hi> to <hi>Westminster,</hi> or to any place of like distance, or thereabouts, not above twelve pence; and from <hi>Westminster</hi> to <hi>White-Chappel,</hi> or the like distance of place, or thereabouts, two shillings six pence; and from <hi>Temple Barre</hi> to <hi>White Chappel,</hi> or the like distance of place, or thereabouts, eighteen pence; and from the <hi>Old Exchange</hi> to <hi>White-Chappel,</hi> or the like distance of place, twelve pence: and after the same proportion from place to place within the limits and places aforesaid. And if any person or persons admitted, or that shall be admitted to keep Coach and Horses as aforesaid, shall deny to accept his pay according to the Rates aforesaid, or shall wilfully refuse to be hired, with his Coach and Horses, at the rates
+<pb n="6" facs="tcp:169219:4"/>aforesaid, and shall excuse himself, or pretend that he is hired before, whereas in truth he is not; or shall misbe<g ref="char:EOLhyphen"/>have himself by uncivil carriage, or reproachful or rail<g ref="char:EOLhyphen"/>ing words, towards any person or persons who shall re<g ref="char:EOLhyphen"/>quire or offer to hire his Coach or Horses, and offer to pay unto him for the same after the Rates aforesaid; in such case such person and persons shall for the first offence, be<g ref="char:EOLhyphen"/>ing proved before the said Overseers at their Meetings, who are hereby impowered to examine such abuses, for<g ref="char:EOLhyphen"/>feit, and pay ten shillings; for the second offence, being proved as aforesaid, twenty shillings; and for the third offence, being complained of to the Court of Aldermen of the said City, and the thing there proved, shall, by Order of the said Court be dismissed, and put beside his keeping of Coach and Horses to work and hire out, within the li<g ref="char:EOLhyphen"/>mits aforesaid.</p>
+            <p n="5">
+               <hi>V.</hi> For avoiding all annoyance, and pestering of the streets by the standing of too many Coaches in the same: It is Ordained, That there shall not stand at the <hi>Old Ex<g ref="char:EOLhyphen"/>change,</hi> at one time, above ten Coaches, five at the one side of the Conduit there, and five at the other side, thirty foot off, and from the said Conduit near the Channel, and a good distance one from another, and the Drivers not to stir off from his and their Coaches, and be careful not to offend the Inhabitants and Passengers thereabouts; In like manner in <hi>Guildhall</hi> yard, not above two Coaches (un<g ref="char:EOLhyphen"/>less they attend any persons that have hired the same) In <hi>Pauls Church-yard</hi> not above eight Coaches at one time; In <hi>Smithfield</hi> not above ten; In <hi>Aldersgate street</hi> not above eight; From <hi>Fleet Conduit</hi> to <hi>Dunstans Church,</hi> not above ten; from thence to <hi>Temple Barre</hi> not above eight; In <hi>Chancery-lane</hi> not above six; From the <hi>Savoy</hi> to the <hi>New Exchange</hi> or <hi>York-house,</hi> not above ten; At <hi>Charing Crosse</hi> not above six; At <hi>Whitehall</hi> not above eight; At <hi>Westminster</hi> as occasion serves; From the West-end of S. <hi>Clements Church</hi> to <hi>Exe<g ref="char:EOLhyphen"/>ter house,</hi> not above twenty; In <hi>Holborn</hi> not above twen<g ref="char:EOLhyphen"/>ty; In <hi>Long-acre</hi> and <hi>Covent Garden</hi> as occasion serves; In S. <hi>Martins-lane</hi> not above twelve; and in <hi>Bishopsgate-street</hi> not above twelve Coaches at any one time, Vpon
+<pb n="7" facs="tcp:169219:4"/>pain that every one offending therein, by a wilful exceeding of the respective Numbers of Coaches before-mentioned, shall for every offence forfeit and pay two shillings six pence.</p>
+            <p n="6">
+               <hi>VI.</hi> That the said Overseers shall and may four times in every year, or oftner, view the Coaches and Horses of all persons of the Fellowship, to see that the same be fit and able, and kept in handsome and good repair: And in case any shall refuse to permit such view, and shall not, upon warning given him by the said Overseers of any thing amisse, reform and amend the same, such offendor shall in like manner, and upon like proof as aforesaid, for the first offence forfeit and pay five shillings, for the second offence ten shillings, and for the third offence be dismissed by the Court of Aldermen, of, and from the said imployment, and keeping and working of Coach and Horses for hire, within the limits aforesaid.</p>
+            <p n="7">
+               <hi>VII.</hi> That none of the said Hackney Coachmen shall have his Coach, or any part of it gilded, nor wear the Eschucheon of any person of Honour, or Gentleman there<g ref="char:EOLhyphen"/>upon, Vpon pain of five pounds: But, as a Mark of distin<g ref="char:EOLhyphen"/>ction, shall have the City Arms placed or painted on the Shield, upon the crosse piece behinde of his said Coach.</p>
+            <p n="8">
+               <hi>VIII.</hi> If any person admitted to keep and work for hire Coach and Horses, happen to die, leaving his Widow; such Widow may at the pleasure of the said Court of Alder<g ref="char:EOLhyphen"/>men, be admitted to continue, use, and hire out the Coach or Coaches, and Horses of her said late Husband, during her Widowhood: Provided that she and they do from time to time keep and observe the Rules, Orders and Dire<g ref="char:EOLhyphen"/>ctions appointed for persons who keep Coach and Horses to hire.</p>
+            <p n="9">
+               <hi>IX.</hi> That if any person or persons shall hence-forward presume to keep, and let to hire any Coach and Horses, not being duly allowed by the Court of Aldermen of <hi>London,</hi> or having been allowed, and for any cause disabled &amp; dismissed
+<pb n="8" facs="tcp:169219:5"/>by the said Court, shall yet presume to keep, or let to hire any Coach or Horses; In every such case every person so offending, upon the proof as aforesaid, shall forfeit and pay for the first offence twenty shillings, for the second offence forty shillings, and for every offence afterwards the summe of four pounds, to be had and recovered as is hereafter mentioned. But in asmuch as many persons within the limits aforesaid, above the number allowed by the said Court of Aldermen, according to the aforesaid Ordinance of his Highnesse the Lord <hi>Protector,</hi> are at pre<g ref="char:EOLhyphen"/>sent possest of Coaches and Horses, and cannot on the suddain sell, and put off the same without much losse and damage, time is therefore given unto those supernumerary persons, not allowed by the Court of Aldermen as afore<g ref="char:EOLhyphen"/>said, untill the twenty fifth day of <hi>December</hi> next ensu<g ref="char:EOLhyphen"/>ing, to sell and put off their said Coaches and Horses to their best advantage, and in the mean time, or till they dispose of the same within the time aforesaid to work the same with<g ref="char:EOLhyphen"/>in the limits aforesaid, they demeaning themselves well, and orderly in the imployment, and observing and fullfilling all the Orders concerning Rates, for carriage herein comprised and not otherwise, any thing in this Article conteyned to the contrary notwithstanding.</p>
+            <p n="10">
+               <hi>X.</hi> And for the better ordering, and preservation of the stock, and Incombe of the said Fellowship, and due and sure disposall of the monies that shall be paid and forfei<g ref="char:EOLhyphen"/>ted, to the right ends and purposes hereby directed, and intended. It is Ordained that it shall be Lawfull to and for the said Overseers of the said Fellowship, or the major part of them, from time to time, to make choice of one able, and sufficient person (from amongst themselves) to be Treasurer, who shall from time to time, receive and take all Admittance money, quarteridges, and other duties, forfeitures, fines, and Americaments whatsoever which shall from time to time grow due, or be payable by any Member of the said Fellowship, or by any other person or persons whatsoever, by vertue or Force of the said Ordinance, or any other Ordinance concerning the same businesse, or by these or any other Orders made, or
+<pb n="9" facs="tcp:169219:5"/>to be made concerning the said Fellowship; which said Treasurer shall from time to time be accomptable for his Receipts, and Disbursments, unto and before the Over<g ref="char:EOLhyphen"/>seers of the said Fellowship for the time being, or the ma<g ref="char:EOLhyphen"/>jor part of them, and give such security to make a true and perfect accompt of what he shall receive, as shall be thought fit from time to time by the said Court of Alder<g ref="char:EOLhyphen"/>men of the City of <hi>London,</hi> and also for the faithfull dis<g ref="char:EOLhyphen"/>charge of his trust; And further, that the said Overseers or the major part of them, shall allow unto such person as they shall from time to time choose to be their Treasu<g ref="char:EOLhyphen"/>rer, such allowance for his pains and labour as they shall think fit. Provided, that every Treasurer shall be first presented to and allowed of by the Court of Aldermen of the City of <hi>London,</hi> and not otherwise, nor removed without the privity, or consent of the said Court; And if any difference shall happen concerning the allowance of the said Treasurers Receipts, or disbursments, between the Treasurer and the said Overseers, the same to be heard and determined by the Court of Aldermen aforesaid. Also that the said Fellowship shall, and may have and chose a Clerk and Beadle or Beadles, for doing their common ser<g ref="char:EOLhyphen"/>vice, and affairs, to be chosen, and appointed from time to time, and removed from their said places and imployment, by and at the pleasure of the Overseers of the said Fellow<g ref="char:EOLhyphen"/>ship, with the assent and approbation of the said Court of Aldermen, and not otherwise.</p>
+            <p n="11">
+               <hi>XI.</hi> And it is ordeyned that out of the said Admittance money, Quarteridges, Fines, Amerciaments, and other profits aforesaid, there shall be yearly payd by the Trea<g ref="char:EOLhyphen"/>surer of the said Fellowship to be appointed as aforesaid, To the Treasurer of <hi>Bridewell</hi> for the time being, the sum of Fifty pounds by equall quarterly payments for the benefit and relief of the poor Lunatique, and distracted persons in the Hospitall of <hi>Bethlem,</hi> the first quarterly payment to be made on the twenty fifth day of <hi>March 1655.</hi>
+            </p>
+            <p n="12">
+               <hi>XII.</hi> And to the intent no person admitted to keep Hack<g ref="char:EOLhyphen"/>ney Coach and Horses may be ignorant of their duty com<g ref="char:EOLhyphen"/>prised
+<pb n="10" facs="tcp:169219:6"/>in these Rules, and Orders; It is Ordained that the said Overseers shall forthwith assemble all the mem<g ref="char:EOLhyphen"/>bers of their Fellowship, and openly read the same unto them; And shall deliver out, unto every perticular mem<g ref="char:EOLhyphen"/>ber that now is, or hereafter shall be, at his first Admit<g ref="char:EOLhyphen"/>tance, a brief note of the Rates of Hire, and other parti<g ref="char:EOLhyphen"/>culars herein contained, to be kept, and observed by them.</p>
+            <p n="13">
+               <hi>XIII.</hi> And it is Ordained, that every person Admitted, or that shall be admitted to keep Hackney Coaches and Horses as aforesaid, shall retain and keep no servant but of honest and civill life and behaviour, and shall for the miscarriages or offences of his or her servants, against any the orders and provisions before going, or that shall here<g ref="char:EOLhyphen"/>after be made in this behalf, undergo and suffer like pains and penalties, as if the same had been done, and com<g ref="char:EOLhyphen"/>mitted in his or her own person, and the servant so offen<g ref="char:EOLhyphen"/>ding shall make reparation to his Master or Mistres, out of his wages by way of abatement or deduction; or other<g ref="char:EOLhyphen"/>wise shall be committed to the house of correction by the said Lord Maior and Aldermen, there to remain and be whipped, and held to hard Labour, as, according to the merit and nature of the offence, shall by the said Court be adjudged fit and reasonable, and not enlarged, but by warrant from the said Court.</p>
+            <p n="14">
+               <hi>XIV.</hi> And further, It is Ordained, That all pains, pe<g ref="char:EOLhyphen"/>nalties, forfeitures, and sums of money, by vertue of any of these Ordinances to be forfeited, and not otherwise levied, shall and may be levied by Distress, and sale of the Coach or Coaches, and Horses, or other Goods and Chattels of the party or parties offending and refusing, or neglecting to pay the same; Deducting the said forfeiture or sum of mo<g ref="char:EOLhyphen"/>ney, and reasonable charges of Distraining, and restoring the overplus to the Owner thereof; or otherwise, such pains, penalties, forfeitures and sums of money, shall and may be recovered by Action of Debt, Bill or Plaint, to be commenced in any Court of Record: And after recovery and levying thereof, and charges deducted, the one moyety thereof to be to the use of the said Fellowship, and the other moyety thereof to the Informer that shall prosecute
+<pb n="11" facs="tcp:169219:6"/>the same: In which Suits the Prosecutor shall recover ordinary Costs and Charges against the offendor or offen<g ref="char:EOLhyphen"/>dors in that behalf, if the Suit or Action pass for him; and the Defendant shall recover his Costs against the Plaintiff, if the same go for the Defendant.</p>
+            <p n="15">
+               <hi>XV.</hi> Lastly, It is Ordained, That if any person or per<g ref="char:EOLhyphen"/>sons shall hire, or make use of the said Hackney Coachmen, or any of them, or of their Coaches and Horses for carry<g ref="char:EOLhyphen"/>ing of them from place to place, and shall refuse or neglect to pay, and satisfie him and them their hire or freight as aforesaid, and according to the same proportion, That such person or persons shall and may be carried before any Iu<g ref="char:EOLhyphen"/>stice of Peace near the place where such refusal or fact shall be committed; and that such Iustice of Peace shall cause the same to be paid forthwith, with such damages as he shall think fit in his discretion for detaining the same: and for not performance thereof, the said Iustice of Peace shall hereby have power to deal with such offendor, as fully, amply and largely, to all intents and purposes, as any Iu<g ref="char:EOLhyphen"/>stice of Peace may do with any Master, who refuseth to pay his Servant his wages contracted for.</p>
+            <closer>
+               <signed>SADLER.</signed>
+            </closer>
+         </div>
+         <div type="order">
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>Tuesday, 19 December. 1654.</hi>
+                  </date> At the Councell at Whitehall.</dateline>
+            </opener>
+            <p>
+               <hi>ORdered by His Highness the Lord <hi>Protector,</hi> and the Councel, That the Rules, Directions and By-Laws, devised and made by the Court of Aldermen of the City of <hi>London,</hi> by vertue of the late Ordinance of His High<g ref="char:EOLhyphen"/>ness, with the Consent of His Councel, for Regulation of Hackney Coachmen, within the said City and places adjacent, be and are hereby declared to be approved by His said Highness and the Councel.</hi>
+            </p>
+            <closer>
+               <signed>
+                  <hi>W: JESSOP, <hi>Clerk of the Councell.</hi>
+                  </hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed by <hi>James Flesher,</hi> Printer to the Honourable City of <hi>London.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
